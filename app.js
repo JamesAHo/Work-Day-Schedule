@@ -16,10 +16,21 @@ $(document).ready(function() {
         
 
     });
+    // using loop function over the timeline of the schdule to identify past, present and future time
+    // past, present and future time can identify by different color
     function scheduleTimeline() {
         var currenttime = moment().hour();
-        var time = parseInt($(this).attr("id").split("hour")[1]);
-        console.log(time)
+        $(".time-block").each(function() {
+            var timeinBlock = parseInt($(this).attr("id").split("hour")[1]);
+        // .removeClass and .addClass used to create new class for identification
+        if (currenttime < timeinBlock) {
+            // if currentime < timeinBlock => identify as past time with color lightblue
+            $(this).removeClass()
+        }
+        })
+        
+        
 
     }
+    scheduleTimeline();
 })
