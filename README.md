@@ -17,8 +17,8 @@
 # App Description
 This project is to create a working-day schedule for a regular working person whoes working for 8AM to 5PM. User can see if time block is past/present or write todo activity in the future time.
 # Repository & Deploy URL
--Repository link: https://github.com/JamesAHo/QuizApplication <br>
--Deployed Link: https://jamesaho.github.io/QuizApplication/
+-Repository link: https://github.com/JamesAHo/Work-Day-Schedule<br>
+-Deployed Link: https://jamesaho.github.io/Work-Day-Schedule/
 # Mock up
 
 
