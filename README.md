@@ -15,10 +15,11 @@
 - THEN the saved events persist
 
 # App Description
-
+This project is to create a working-day schedule for a regular working person whoes working for 8AM to 5PM. User can see if time block is past/present or write todo activity in the future time.
 # Repository & Deploy URL
 -Repository link: https://github.com/JamesAHo/QuizApplication <br>
 -Deployed Link: https://jamesaho.github.io/QuizApplication/
 # Mock up
 
 
+![Workdaymockup](https://user-images.githubusercontent.com/90822220/171334636-776a85a7-472c-4460-a4d8-30639ea382ad.jpg)
